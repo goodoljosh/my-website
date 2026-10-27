@@ -1,0 +1,8 @@
+Flask
+flask-cors
+llama-index-core
+llama-index-vector-stores-chroma
+llama-index-readers-file
+llama-index-embeddings-ollama
+llama-index-llms-ollama
+chromadb
